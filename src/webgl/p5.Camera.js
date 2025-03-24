@@ -552,7 +552,7 @@ class Camera {
    */
 
   /**
-   * The y-coordinate of the place where the camera looks.
+   * The z-coordinate of the place where the camera looks.
    *
    * By default, the camera looks at the origin `(0, 0, 0)` in "world" space, so
    * `myCamera.centerZ` is 0.
